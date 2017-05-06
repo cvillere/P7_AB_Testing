@@ -9,3 +9,6 @@ Project Instructions: https://docs.google.com/document/u/1/d/1aCquhIqsUApgsxQ8-S
 Project Baseline Values: https://docs.google.com/spreadsheets/d/1MYNUtC47Pg8hdoCjOXaHqF-thheGpUshrFA21BAJnNc/edit#gid=0
 
 Project Data Values: https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
+
+
+I did not use any outside sources to complete my project.
